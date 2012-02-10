@@ -10,9 +10,9 @@
 
 * Are you on Twitter?
 	* If so, who do you follow on Twitter?
- 		twitstream
-klout
-cmugeek
+|  twitstream  | 
+|  klout  |
+|  cmugeek  |
 PandaExpress
 natemitchcook
 Crawdaddy93291
