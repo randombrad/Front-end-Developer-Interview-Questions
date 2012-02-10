@@ -10,7 +10,10 @@
 
 * Are you on Twitter?
 	* If so, who do you follow on Twitter?
- | Following |
+ | Header | Header | Right  |
+| ------ | ------ | -----: |
+|  Cell  |  Cell  |   $10  |
+|  Cell  |  Cell  |   $20  |
 | ------ : |
 |  twitstream  | 
 |  klout  |
