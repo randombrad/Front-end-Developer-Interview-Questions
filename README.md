@@ -13,32 +13,13 @@
 
 | I follow  |  |   |
 | ------ | ------ | -----: |
-|  Cell  |  Cell  |   $10  |
-|  Cell  |  Cell  |   $20  |
+|  twitstream  |  klout  |   cmugeek  |
+|  PandaExpress  |  natemitchcook  |   Crawdaddy93291  |
+|  Castle_Ink  |  googletasks  |   dotnetCarpenter  |
+|  mtherrmann  |  jeffhanda  |   SouthwestWhit  |
+|  RayByDay  |  pandorajam  |   MrTonyHale  |
+|  SCPaperCrafts  |  Shutterfly  |   olafk  |
 
- | Header | Header | Right  |
-| ------ | ------ | -----: |
-|  Cell  |  Cell  |   $10  |
-|  Cell  |  Cell  |   $20  |
-| ------ : |
-|  twitstream  | 
-|  klout  |
-|  cmugeek  |
-PandaExpress
-natemitchcook
-Crawdaddy93291
-Castle_Ink
-googletasks
-dotnetCarpenter
-mtherrmann
-jeffhanda
-SouthwestWhit
-RayByDay
-pandorajam
-MrTonyHale
-SCPaperCrafts
-Shutterfly
-olafk
 FredNBCLA
 iLoveLiferay
 TULacrosse
