@@ -10,6 +10,8 @@
 
 * Are you on Twitter?
 	* If so, who do you follow on Twitter?
+ | Following |
+| ------ : |
 |  twitstream  | 
 |  klout  |
 |  cmugeek  |
