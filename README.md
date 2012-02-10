@@ -10,6 +10,13 @@
 
 * Are you on Twitter?
 	* If so, who do you follow on Twitter?
+ * ## Markdown plus tables ##
+
+| Header | Header | Right  |
+| ------ | ------ | -----: |
+|  Cell  |  Cell  |   $10  |
+|  Cell  |  Cell  |   $20  |
+
  | Header | Header | Right  |
 | ------ | ------ | -----: |
 |  Cell  |  Cell  |   $10  |
